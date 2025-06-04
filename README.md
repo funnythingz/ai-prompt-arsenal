@@ -9,6 +9,7 @@
 ## 📂 プロンプトカテゴリ
 
 ### 🎯 [企画・計画](./prompts/planning/)
+- [**ProductPlanner Pro**](./prompts/planning/productplanner-pro/) - Webアプリ企画完全自動化・包括的ビジネスプラン生成
 - プロダクト要件定義
 - 技術選定支援
 - アーキテクチャ設計
